@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ayush_dubey2053" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_dubey2053?logo=twitter&style=for-the-badge" alt="ayush_dubey2053" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Front End Developer**
 
 - 📫 How to reach me **ayushdubey2053@gmail.com**
 
